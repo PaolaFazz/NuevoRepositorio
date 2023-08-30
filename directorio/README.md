@@ -1,1 +1,1 @@
-Aquí denben ir las fotos
+Aquí deben ir las fotos
