@@ -7,6 +7,3 @@ Este es mi nuevo repositorio
 
 ## Segunda imagen al 60% de ancho:
 <img src="https://github.com/jzavalar/NuevoRepositorio/blob/main/imagenes/photo_2021-11-15_14-00-08.jpg" alt="" width="60%"/>
-
-Foto de mi golden <img src="https://github.com/PaolaFazz/NuevoRepositorio/blob/patch-1/imagenes/golden.jpg" alt="Mi golden" width=100%"/>
-<img src="https://github.com/PaolaFazz/NuevoRepositorio/blob/patch-1/imagenes/golden.jpg" alt="Mi golden"width=100" alt=" width="100%"/>
